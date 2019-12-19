@@ -1,8 +1,15 @@
+<<<<<<< HEAD
+asdadsasd
+dfgdfgsadwdfdiIgnjf
+=======
 Yo this is pretty dope right?
 
 and actually kinda fun 
 
 way better than school for sure
+<<<<<<< HEAD
+>>>>>>> 0f9e9c3890368195f01388c8971a95b29ba9ca4b
+=======
 dsakfoksafd
 fksadfj
 cjsdaicjsa
@@ -13,4 +20,5 @@ kimjinhooooooooooooooooooooo
 
 
 zz
-
+HIHIHIIHHIHIHII
+>>>>>>> 917521dc2401bf3935f80adb4039ea2bbd83d74a
