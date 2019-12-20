@@ -2,7 +2,7 @@
 git add name.xx
 git commit -m "first commit"
 git remote add origin hp
-git push -u origin maste
+git push -u origin master
 git pull origin master
 git status
 =python=
