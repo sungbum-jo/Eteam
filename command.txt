@@ -1,0 +1,11 @@
+=git clone
+git add name.xx
+git commit -m "first commit"
+git remote add origin hp
+git push -u origin maste
+git pull origin master
+git status
+=python=
+gu = []
+matrix
+
