@@ -1,0 +1,14 @@
+import os 
+from pytube import YouTube
+
+def download_video(url, resoultion='720p'):
+    yt=YouTube(url)
+    video_stream = yt.streams.filter(
+        progressive=True,res=resoultion).first()
+    if not video_stream:
+        video_stream = yt.stream.get_highest_resolytion()
+    video_stream.download()
+    
+    video_url = "https://www.youtube.com/watch?v=J4fIqj9ZLOY"
+    os.chdir("C:\\Users\\sw\\Desktop\\20216639")
+    download_video(video_url)
